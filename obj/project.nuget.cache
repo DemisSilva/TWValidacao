@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Crbgd3HmiTYXhFucwcO0Z6+EUmbBsqf9TWhU4EQxFQsuFvB8HEcr96phIpI3LzAsM+QEoUPR25AQ9TCkzYVdBQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROJETOS\\C#\\TREINAWEB\\ASP_NET_CORE_VALIDACAO\\TWValidacao\\TWValidacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\demis\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512",
+    "C:\\Users\\demis\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\demis\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\demis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
